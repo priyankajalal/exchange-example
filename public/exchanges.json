@@ -1,0 +1,50 @@
+[
+  {
+    "value": "asx",
+    "label": "ASX",
+    "products": [
+      {
+        "value": "LTC",
+        "label": "LTC",
+        "series": [
+          { "value": "LTC-May-2024", "label": "LTC-May-2024" },
+          { "value": "LTC-June-2024", "label": "LTC-June-2024" },
+          { "value": "LTC-July-2024", "label": "LTC-July-2024" }
+        ]
+      },
+      {
+        "value": "KT",
+        "label": "KT",
+        "series": [
+          { "value": "KT-May-2024", "label": "KT-May-2024" },
+          { "value": "KT-June-2024", "label": "KT-June-2024" },
+          { "value": "KT-July-2024", "label": "KT-July-2024" }
+        ]
+      }
+    ]
+  },
+  {
+    "value": "binance",
+    "label": "Binance",
+    "products": [
+      {
+        "value": "BTC",
+        "label": "Bitcoin",
+        "series": [
+          { "value": "BTC-May-2024", "label": "BTC-May-2024" },
+          { "value": "BTC-June-2024", "label": "BTC-June-2024" },
+          { "value": "BTC-July-2024", "label": "BTC-July-2024" }
+        ]
+      },
+      {
+        "value": "ETH",
+        "label": "Ethereum",
+        "series": [
+          { "value": "ETH-May-2024", "label": "ETH-May-2024" },
+          { "value": "ETH-June-2024", "label": "ETH-June-2024" },
+          { "value": "ETH-July-2024", "label": "ETH-July-2024" }
+        ]
+      }
+    ]
+  }
+]
